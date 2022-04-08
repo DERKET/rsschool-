@@ -17,3 +17,13 @@
 - Accountability
 - Patience
 - Analytical mind
+
+## Skills
+
+- HTML5 (basic)
+- CSS3 (basic)
+- JavaScript (basic)
+- Testing/Debagging
+- Git/Version Control
+- Figma
+- Agile-metodoly
