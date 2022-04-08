@@ -40,3 +40,9 @@ divisible by both integers a and b. _/
 ## Education
 
 JS/FE Pre-School 2022
+
+## Languages
+
+- Russian - native speaker.
+
+- English - B1
