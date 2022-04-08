@@ -27,3 +27,12 @@
 - Git/Version Control
 - Figma
 - Agile-metodoly
+
+## Code examples
+
+/* Create the function isDivideBy to check if an integer number is 
+divisible by both integers a and b. */
+
+1 function isDivideBy (number, a, b) {
+2   return number % a === 0 && number % b === 0
+3 }
