@@ -1,5 +1,3 @@
- # rs-school-cv
-=======
 # CV (сurriculum vitae) - документ, в котором соискатель описывает своё образование и опыт работы. В отличие от резюме, которое редактируется под требования каждой конкретной вакансии, в CV отображаются профессиональные достижения и навыки за весь период учёбы и работы.
 
 # CV#1. Markdown & Git
@@ -34,5 +32,3 @@
 Название Pull Request `HTML, CSS & Git Basics`  
 [Описание Pull Request дайте по схеме](https://docs.rs.school/#/pull-request-review-process?id=Требования-к-pull-request-pr).  
 Замержите Pull Request из ветки `rsschool-cv-html` в ветку `gh-pages`
->>>>>>> main
-
